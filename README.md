@@ -1,0 +1,3 @@
+- Linux user due to economic constraints
+- Most of my code is written on a ThinkPad I got at goodwill for $70
+- Too smart for ubuntu, too dumb for arch
