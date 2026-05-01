@@ -1,3 +1,3 @@
 - Linux user due to economic constraints
 - Code is written on a ThinkPad I got at goodwill for $70
-- Too smart for ubuntu, too dumb for arch
+- Too smart for ubuntu, too dumb for arch, so I use Manjaro
